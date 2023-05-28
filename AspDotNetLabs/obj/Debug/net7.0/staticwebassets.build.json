@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "vzuwXyDJ6RAZUUKrV669EKbkAFG3kQWLCO+dhXGLG5Y=",
+  "Source": "AspDotNetLab1",
+  "BasePath": "_content/AspDotNetLab1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspDotNetLab1\\wwwroot",
+      "Source": "AspDotNetLab1",
+      "ContentRoot": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\",
+      "BasePath": "_content/AspDotNetLab1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\404.html",
+      "SourceId": "AspDotNetLab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\",
+      "BasePath": "_content/AspDotNetLab1",
+      "RelativePath": "404.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\404.html"
+    },
+    {
+      "Identity": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\index.html",
+      "SourceId": "AspDotNetLab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\",
+      "BasePath": "_content/AspDotNetLab1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\style.css",
+      "SourceId": "AspDotNetLab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Worker\\source\\repos\\AspDotNetLab1\\AspDotNetLabs\\wwwroot\\",
+      "BasePath": "_content/AspDotNetLab1",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
